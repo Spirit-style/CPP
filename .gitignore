@@ -86,4 +86,5 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-.vscode/ #修改gitignore文件
+ipch/ 
+test.cpp
