@@ -1,0 +1,1 @@
+/home/lz/vscode/cpp/test.cpp
